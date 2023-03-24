@@ -1,1 +1,2 @@
 # Data_Collection
+Utilized web scraping with Splinter and HTML code extraction with Beautiful Soup in data pertaining to Mars news articles. Assigment separated into two parts: first part is scraping titles and preview texts from Mars news and the second part is scraping and analyzing Mars weather data. The information extracted from weather data for mars was compared to the month time in terrestrial (Earth) months. Created bar chart to determine which months in Mars are the coldest and hottest. Exported information gathered from analyzing into a csv file. 
